@@ -1,16 +1,16 @@
 @font-face{
     font-family: "TrebuchetMS";
-    src: url(fonts/TrebuchetMS.ttf);
+    src: url("/css/fonts/TrebuchetMS.ttf");
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: "WebSymbolsRegular";
-    src: url(fonts/websymbols-regular-webfont.eot);
-    src: url(fonts/websymbols-regular-webfont.eot?#iefix)format('embedded-openty'),
-        url(fonts/websymbols-regular-webfont.woff) format('woff'),
-        url(fonts/websymbols-regular-webfont.ttf) format('truetype'),
-        url(fonts/websymbols-regular-webfont.svg#WebSymbolsRegular) format('svg');
+    src: url("/css/fonts/websymbols-regular-webfont.eot");
+    src: url("/css/fonts/websymbols-regular-webfont.eot?#iefix")format('embedded-openty'),
+        url("/css/fonts/websymbols-regular-webfont.woff") format('woff'),
+        url("/css/fonts/websymbols-regular-webfont.ttf") format('truetype'),
+        url("/css/fonts/websymbols-regular-webfont.svg#WebSymbolsRegular") format('svg');
         font-weight: normal;
         font-style: normal;
 }
@@ -24,7 +24,7 @@
     margin: 0px auto;
 }
 body{
-    background-image: url(../img/pattern.png);
+    background-image: url("../img/pattern.png");
 }
 /* Cabecera */
 header{
@@ -112,7 +112,7 @@ header{
     height:100px;
     border: 10px solid white;
     box-shadow: 0px 0px 2px gray;
-    background-image: url(/img/bakbaner.png);
+    background-image: url("../img/bakbaner.png");
     font-size: 50px;
     background-position: -280px -220px;
     margin: 20px auto;
