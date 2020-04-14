@@ -1,16 +1,16 @@
 @font-face{
     font-family: "TrebuchetMS";
-    src: url(css/fonts/TrebuchetMS.ttf);
+    src: url(fonts/TrebuchetMS.ttf);
     font-weight: normal;
     font-style: normal;
 }
 @font-face{
     font-family: "WebSymbolsRegular";
-    src: url(css/fonts/websymbols-regular-webfont.eot);
-    src: url(css/fonts/websymbols-regular-webfont.eot?#iefix)format('embedded-openty'),
-        url(css/fonts/websymbols-regular-webfont.woff) format('woff'),
-        url(css/fonts/websymbols-regular-webfont.ttf) format('truetype'),
-        url(css/fonts/websymbols-regular-webfont.svg#WebSymbolsRegular) format('svg');
+    src: url(fonts/websymbols-regular-webfont.eot);
+    src: url(fonts/websymbols-regular-webfont.eot?#iefix)format('embedded-openty'),
+        url(fonts/websymbols-regular-webfont.woff) format('woff'),
+        url(fonts/websymbols-regular-webfont.ttf) format('truetype'),
+        url(fonts/websymbols-regular-webfont.svg#WebSymbolsRegular) format('svg');
         font-weight: normal;
         font-style: normal;
 }
